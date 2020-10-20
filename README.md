@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/erikson84/snake_classifier/master?filepath=%2Fvoila%2Frender%2Fapp.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/erikson84/snake_classifier/master?urlpath=%2Fvoila%2Frender%2Fapp.ipynb)
 
 # Snake classifier
 This is just a simple project on computer vision to identify if snakes in pictures are venomous or nonvenomous. 
